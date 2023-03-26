@@ -335,17 +335,13 @@ li ul a li:hover {
 /* 481px — 768px: iPads, Tablets. */
 
 @media (min-width: 481px) and (max-width: 768px) {
-    nav {
-        background-color: blue;
-    }
+    
 }
 
 
 /* 769px — 1024px: Small screens, laptops. */
 @media (min-width: 769px) and (max-width: 1024px) {
-    nav {
-        background-color: green;
-    }
+    
 }
 
 /* 1025px — 1200px: Desktops, large screens. */
