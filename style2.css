@@ -14,6 +14,7 @@ body {
 .cards-page {
     height: 100vh;
     width: 100%;
+     font-family: 'Roboto', sans-serif;
 }
 
 .main {
@@ -109,6 +110,7 @@ body {
 .extra {
     height: 100vh;
     width: 100%;
+     font-family: 'Roboto', sans-serif;
 }
 
 .content-head {
